@@ -1,3 +1,13 @@
+
+
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="How to create Thread pool in Groovy">
+<meta name="keywords" content="kushabk,kusha bk,kusha b k">
+<meta name="author" content="kusha bk">
+</head>
+
+
 # GroovyThreadPool
 
 #How to create Thread pool in Groovy ?
