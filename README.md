@@ -7,10 +7,7 @@
 <meta name="author" content="kusha bk">
 <meta http-equiv="refresh" content="30">
 </head>
-
-
 # GroovyThreadPool
-
 #How to create Thread pool in Groovy ?
 
 Here is the simple way to define Thread pool in groovy scripting language,
@@ -18,7 +15,6 @@ Here is the simple way to define Thread pool in groovy scripting language,
 here i used the below apis to achive the thread pool 
 
 import java.util.concurrent.Callable
-
 import java.util.concurrent.Executors
 
 just call the Executors class, newFixedThreadPool static method and pass the thread number
